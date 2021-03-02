@@ -30,7 +30,7 @@ camels_attributes:
 - low_prec_freq
 - low_prec_dur
 clip_gradient_norm: 1
-data_dir: /publicdata/CAMELS
+data_dir: /cats/datastore/data/CAMELS_USA
 dataset: camels_us
 device: cuda:0
 dynamic_inputs:
