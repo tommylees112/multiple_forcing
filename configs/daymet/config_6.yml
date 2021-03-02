@@ -61,7 +61,7 @@ num_workers: 16
 optimizer: Adam
 output_dropout: 0.4
 predict_last_n: 1
-run_dir: ensemble_input_new
+run_dir: /cats/datastore/data/runs_usa/multi_input
 save_validation_results: false
 save_weights_every: 1
 scaler_file: None
